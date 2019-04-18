@@ -5,3 +5,10 @@ C:\Users\aenge\source\repos\rekenmachine\rekenmachine\obj\Debug\rekenmachine.csp
 C:\Users\aenge\source\repos\rekenmachine\rekenmachine\obj\Debug\rekenmachine.csproj.CoreCompileInputs.cache
 C:\Users\aenge\source\repos\rekenmachine\rekenmachine\obj\Debug\rekenmachine.exe
 C:\Users\aenge\source\repos\rekenmachine\rekenmachine\obj\Debug\rekenmachine.pdb
+C:\Users\aenge\source\repos\Unity_cSharp\rekenmachine\rekenmachine\bin\Debug\rekenmachine.exe.config
+C:\Users\aenge\source\repos\Unity_cSharp\rekenmachine\rekenmachine\bin\Debug\rekenmachine.exe
+C:\Users\aenge\source\repos\Unity_cSharp\rekenmachine\rekenmachine\bin\Debug\rekenmachine.pdb
+C:\Users\aenge\source\repos\Unity_cSharp\rekenmachine\rekenmachine\obj\Debug\rekenmachine.csprojAssemblyReference.cache
+C:\Users\aenge\source\repos\Unity_cSharp\rekenmachine\rekenmachine\obj\Debug\rekenmachine.csproj.CoreCompileInputs.cache
+C:\Users\aenge\source\repos\Unity_cSharp\rekenmachine\rekenmachine\obj\Debug\rekenmachine.exe
+C:\Users\aenge\source\repos\Unity_cSharp\rekenmachine\rekenmachine\obj\Debug\rekenmachine.pdb

@@ -1,0 +1,7 @@
+C:\Users\aenge\source\repos\btw Aftrekken\btw Aftrekken\obj\Debug\btw Aftrekken.csprojAssemblyReference.cache
+C:\Users\aenge\source\repos\btw Aftrekken\btw Aftrekken\obj\Debug\btw Aftrekken.csproj.CoreCompileInputs.cache
+C:\Users\aenge\source\repos\btw Aftrekken\btw Aftrekken\bin\Debug\btw Aftrekken.exe.config
+C:\Users\aenge\source\repos\btw Aftrekken\btw Aftrekken\bin\Debug\btw Aftrekken.exe
+C:\Users\aenge\source\repos\btw Aftrekken\btw Aftrekken\bin\Debug\btw Aftrekken.pdb
+C:\Users\aenge\source\repos\btw Aftrekken\btw Aftrekken\obj\Debug\btw Aftrekken.exe
+C:\Users\aenge\source\repos\btw Aftrekken\btw Aftrekken\obj\Debug\btw Aftrekken.pdb

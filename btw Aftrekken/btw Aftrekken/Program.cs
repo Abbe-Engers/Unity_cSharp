@@ -16,8 +16,7 @@ namespace btw_Aftrekken
             string aantalEuro = Console.ReadLine();
             int aantalEuroInt = Convert.ToInt32(aantalEuro);
 
-            Product GeenLuxe = new Product();
-            GeenLuxe.BTWPercentage = 6;
+            Product GeenLuxe = new Product(6);
             Console.WriteLine(" ");
             Console.WriteLine("##########Geen-luxe##########");
             Console.WriteLine(" ");
@@ -27,8 +26,7 @@ namespace btw_Aftrekken
 
 
 
-            Product WelLuxe = new Product();
-            WelLuxe.BTWPercentage = 21;
+            Product WelLuxe = new Product(21);
             Console.WriteLine(" ");
             Console.WriteLine("#######Wel-luxe##############h");
             Console.WriteLine(" ");

@@ -9,7 +9,6 @@ namespace btw_Aftrekken
     class Program
     {
         static int Percentage = 100;
-        static int BTWPercentage = 25;
 
         static void Main(string[] args)
         {
@@ -17,10 +16,23 @@ namespace btw_Aftrekken
             string aantalEuro = Console.ReadLine();
             int aantalEuroInt = Convert.ToInt32(aantalEuro);
 
+            Product GeenLuxe = new Product();
+            GeenLuxe.BTWPercentage = 6;
+            Console.WriteLine(" ");
+            Console.WriteLine("##########Geen-luxe##########");
+            Console.WriteLine(" ");
+            belastingBon(aantalEuroInt, GeenLuxe.BTWPercentage);
             Console.WriteLine(" ");
             Console.WriteLine("#############################");
+
+
+
+            Product WelLuxe = new Product();
+            WelLuxe.BTWPercentage = 21;
             Console.WriteLine(" ");
-            belastingBon(aantalEuroInt, BTWPercentage);
+            Console.WriteLine("#######Wel-luxe##############h");
+            Console.WriteLine(" ");
+            belastingBon(aantalEuroInt, WelLuxe.BTWPercentage);
             Console.WriteLine(" ");
             Console.WriteLine("#############################");
             Console.ReadLine();

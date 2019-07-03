@@ -4,19 +4,20 @@ namespace Helloworld
 {
     class Program
     {
+        const string secretWord = "sushi";
+
         static void Main(string[] args)
         {
-            string secretWord = "washi gekke kech";
             string guessedWord = "";
-            int aantalguesses = 3;
+            int aantalGuesses = 3;
 
             while (guessedWord != secretWord)
             {
-                if (aantalguesses >= 1)
+                if (aantalGuesses >= 1)
                 {
-                    Console.Write("Enter guess(" + aantalguesses + "): ");
+                    Console.Write("Enter guess(" + aantalGuesses + "): ");
                     guessedWord = Console.ReadLine();
-                    aantalguesses = aantalguesses - 1;
+                    aantalGuesses = aantalGuesses - 1;
                 }
 
                 else

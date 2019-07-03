@@ -8,7 +8,9 @@ namespace btw_Aftrekken
 {
     class Program
     {
+        static int Percentage = 100;
         static int BTWPercentage = 25;
+
         static void Main(string[] args)
         {
             Console.Write("Over hoeveel euro wil je belasting betalen?: ");
@@ -26,7 +28,7 @@ namespace btw_Aftrekken
 
         public static void belastingBon(int euro, int BTW)
         {
-            int factorInt = 100 / BTW;
+            int factorInt = Percentage / BTW;
             int belastingInt = euro / factorInt;
             int overigGeld = euro - belastingInt;
             Console.WriteLine("Aantal BTW: " + belastingInt);

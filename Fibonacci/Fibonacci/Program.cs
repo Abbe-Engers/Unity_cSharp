@@ -10,7 +10,7 @@ namespace Fibonacci
     {
         static void Main(string[] args)
         {
-            long aantalfibonaccis = 93;
+            long aantalfibonaccis = 92;
 
             long[] fibonacci = new long[aantalfibonaccis];
             fibonacci[0] = 1;

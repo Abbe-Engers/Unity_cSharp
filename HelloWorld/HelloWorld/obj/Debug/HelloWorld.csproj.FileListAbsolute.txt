@@ -5,3 +5,10 @@ C:\Users\aenge\source\repos\Unity_cSharp\HelloWorld\HelloWorld\bin\Debug\HelloWo
 C:\Users\aenge\source\repos\Unity_cSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Users\aenge\source\repos\Unity_cSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\aenge\source\repos\Unity_cSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\aenge\OneDrive\Documenten\GitHub\Unity_cSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\aenge\OneDrive\Documenten\GitHub\Unity_cSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\aenge\OneDrive\Documenten\GitHub\Unity_cSharp\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\aenge\OneDrive\Documenten\GitHub\Unity_cSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\aenge\OneDrive\Documenten\GitHub\Unity_cSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\aenge\OneDrive\Documenten\GitHub\Unity_cSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\aenge\OneDrive\Documenten\GitHub\Unity_cSharp\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

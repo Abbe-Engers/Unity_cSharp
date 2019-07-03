@@ -16,21 +16,21 @@ namespace btw_Aftrekken
             string aantalEuro = Console.ReadLine();
             int aantalEuroInt = Convert.ToInt32(aantalEuro);
 
-            Product GeenLuxe = new Product(6);
+            Mobiel GeenLuxe = new Mobiel(6, "SE", "Iphone", "Apple", "IOS");
             Console.WriteLine(" ");
             Console.WriteLine("##########Geen-luxe##########");
             Console.WriteLine(" ");
-            belastingBon(aantalEuroInt, GeenLuxe.BTWPercentage);
+            belastingBon(aantalEuroInt, GeenLuxe.GetBTWPercentage());
             Console.WriteLine(" ");
             Console.WriteLine("#############################");
 
 
 
-            Product WelLuxe = new Product(21);
+            Mobiel WelLuxe = new Mobiel(21, "A3", "Galaxy", "Samsung", "Android");
             Console.WriteLine(" ");
             Console.WriteLine("#######Wel-luxe##############h");
             Console.WriteLine(" ");
-            belastingBon(aantalEuroInt, WelLuxe.BTWPercentage);
+            belastingBon(aantalEuroInt, GeenLuxe.GetBTWPercentage());
             Console.WriteLine(" ");
             Console.WriteLine("#############################");
             Console.ReadLine();
